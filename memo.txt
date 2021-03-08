@@ -1,0 +1,16 @@
+仮想環境のアクティベート
+env\Scripts\activate
+
+git 追加
+git add .
+
+git コミット
+git commit
+
+
+heroku login
+haya---i@0---
+
+heroku create アプリ名
+
+
