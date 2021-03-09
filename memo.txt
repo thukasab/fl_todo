@@ -1,11 +1,26 @@
 仮想環境のアクティベート
 env\Scripts\activate
 
+git 初期化
+git init
+
 git 追加
 git add .
 
 git コミット
-git commit
+git commit -m "first commit"
+
+状態の確認
+git status 
+
+git の削除
+del .git
+
+ユーザーネームの確認
+git config --global user.name
+
+ユーザーネームの登録
+git config --global user.name "****"
 
 
 heroku login
