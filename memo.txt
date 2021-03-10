@@ -28,4 +28,6 @@ haya---i@0---
 
 heroku create アプリ名
 
+git push heroku master
+
 
