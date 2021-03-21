@@ -22,6 +22,15 @@ git config --global user.name
 ユーザーネームの登録
 git config --global user.name "****"
 
+ブランチの切り替え(新規作成も兼ねる)
+git checkout -b *****(例：add_mod1)
+
+ブランチの確認
+git branch
+
+master　の内容をローカルリポジトリに反映させる
+git pull origin master
+
 
 heroku login
 haya---i@0---
